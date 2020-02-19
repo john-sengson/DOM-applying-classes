@@ -16,7 +16,12 @@ div {
   border-radius: 50%;
   background-color: #eee;
 }
-
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
 .blue {
   background-color: blue;
 }
